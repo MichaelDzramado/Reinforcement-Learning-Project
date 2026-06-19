@@ -1,2 +1,2 @@
-# Reinforcement-Learning-Project
+# DSCD 614 Reinforcement-Learning
 Reinforcement Learning
